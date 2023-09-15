@@ -10,6 +10,6 @@ The project can be used by car buyers, sellers, dealerships, and insurance compa
 1.Download the project
 2.Change your directory to project folder in Command prompt
 3.Then type the below command to run the project
-  python app.py
+#  python app.py
 # output
 https://github.com/ghanshyamkachhia/CarPricePrediction/assets/130287034/f3d62765-3063-4f8a-af7a-b113e55d505d
