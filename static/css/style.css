@@ -1,0 +1,97 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-img{
+	background-image: url("carbg.png");
+	background-repeat: cover;
+	height:100%;
+	width:100%;
+}
+
+.card{
+	opacity:0.85;
+	margin-top: 13%;
+	width: 75%; 
+	height: 970px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.hd{
+	font-size:30px;
+	text-align:center;
+}
+
+.company{
+	font-size:35px;
+	text-align: center;
+	width:65%;
+	height:50%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.model{
+	font-size:35px;
+	text-align: center;
+	width:65%;
+	height:50%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.year{
+	font-size:35px;
+	text-align: center;
+	width:65%;
+	height:50%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.fuel_type{
+	font-size:35px;
+	text-align: center;
+	width:65%;
+	height:50%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.kms_driven{
+	font-size:35px;
+	text-align: center;
+	width:65%;
+	height:50%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.pbtn{
+	font-size:40px;
+	text-align: center;
+	width:50%;
+	height:100px;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.selectpicker{
+	font-size:28px;
+	width:100%;
+}
+
+.box{
+	font-size:28px;
+	width:100%;
+}
+
+
+.mt-50{
+	margin-top: 50px;
+}
+#canvas{
+    border: 2px solid black;
+}
